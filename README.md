@@ -1,2 +1,2 @@
-# personal-website
-Create a personal website for learning how to use React framework and other fronted skills
+# CV
+Create a simple cv for learning HTML
