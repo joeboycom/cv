@@ -1,2 +1,6 @@
 # CV
-Create a simple cv for learning HTML
+Create a [CV](https://joeboycom.github.io/cv/) by HTML
+
+Tools:
+- HTML
+- Atom
